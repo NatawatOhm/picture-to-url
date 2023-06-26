@@ -1,8 +1,8 @@
-import Main from '../../pages/main.tsx';
+import Main from "../../pages/main.tsx";
 
 const MainPage = [
   {
-    path: '/main',
+    path: "/",
     element: <Main />,
   },
 ];
